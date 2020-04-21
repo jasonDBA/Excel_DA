@@ -1,5 +1,5 @@
-# Excel-Data-Analysis
-This is an output of a large dataset related to a international student enrollment at Centennial College. I went through this with MS Excel. and mostly used Pivot functions.
+# Excel-Data-Analytics
+This is an output of a large dataset related to an international student enrollment at Centennial College. I went through this with MS Excel and mostly used Pivot table.
 
 * The first bottom tap represents a raw data including various attributes(columns).
 * The second bottom tap named 'Confirmed(No duplicated)' is the dataset handled by data cleaning (removed duplicated records and filled a blank cell with proper values).
