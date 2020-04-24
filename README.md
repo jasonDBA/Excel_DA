@@ -1,5 +1,5 @@
 # Excel-Data-Analytics
-This is an output of a large dataset related to an international student enrollment at Centennial College. I went through this with MS Excel and mostly used Pivot table.
+This is an output of a large dataset related to international student enrollment at Centennial College. I went through this with MS Excel and mostly used the Pivot table.
 
 ## Details
 * The first bottom tap represents raw data including various attributes(columns).
